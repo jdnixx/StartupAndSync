@@ -1,0 +1,14 @@
+Turn off "Downloads" folder grouping (default since Windows 1809 or so) and KEEP IT OFF
+
+
+
+
+
+
+
+
+
+
+https://answers.microsoft.com/en-us/windows/forum/all/disable-group-by-in-downloads-folder-windows-10/b9aa4cb9-353d-4f69-aa07-517286613308?page=11
+
+Keith's reply from February 20th, 2020

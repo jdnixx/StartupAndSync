@@ -1,8 +1,0 @@
-*MEGANO!*
-*node_modules*
-LOCK
-package-lock.json
-*\*configslol\system*
-*\cache\*
-*\var\*
-*\vendor\*

@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile launchable="1" name="Browsers" gameid="" gkeysdk="0" gpasupported="0" lastplayeddate="2020-03-29T12:55:27" guid="{1A400FD2-99F9-4AFE-AA1A-2D233CC0F8C3}" lock="0">
+    <description></description>
+    <target path="C:\PROGRAM FILES (X86)\BRAVESOFTWARE\BRAVE-BROWSER-BETA\APPLICATION\BRAVE.EXE"/>
+    <signature key="" name="" executable="" value=""/>
+    <macros>
+      <macro name="Left Click" hidden="true" guid="{B68C8C8A-27E1-43B9-8B77-AD08DFA876F4}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Left Click" hidden="false" guid="{90CFB95B-054A-4EEA-9D9F-F6B0E25B50CB}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Right Click" hidden="true" guid="{E497EAD1-E907-499C-8204-14B31727561A}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Right Click" hidden="false" guid="{F8994A8E-8FAD-4AC4-9784-82A6C8D8641A}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Middle Click" hidden="true" guid="{1CF08221-D09B-4C8D-B66E-CA5C327B7BFC}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Middle Click" hidden="false" guid="{22E8D2E8-1E25-46AE-AD3B-60B1C12DFF42}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Forward" hidden="true" guid="{D56C68EB-D7B0-4A87-83E5-6206E1223B77}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro name="Forward" hidden="false" guid="{E6710E8B-871A-4109-98D1-5FD692D2F178}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro name="Back" hidden="true" guid="{28D0F4FB-9F50-4008-8FCE-D67218235014}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro name="Back" hidden="false" guid="{28AFEBAD-CB6A-4FC6-9A47-22A206F5652C}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro name="Battery Level (G602)" hidden="true" devicecategory="Logitech.Gaming.Mouse" guid="{87CFA613-EB42-4E89-8BA1-E6B6D8084901}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="batterylevel"/>
+        </mousefunction>
+      </macro>
+      <macro name="Battery Level (G602)" hidden="false" devicecategory="Logitech.Gaming.Mouse" guid="{67F52300-8886-412C-8E43-51A7CE57069F}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="batterylevel"/>
+        </mousefunction>
+      </macro>
+      <macro name="1" hidden="true" guid="{83464DD0-4FBD-4D33-9E8F-B321415B71CC}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro name="2" hidden="true" guid="{270A7174-0E28-433C-8CD6-288C650A4D53}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro name="3" hidden="true" guid="{EBCCAB20-8412-4723-AC47-C1616CE33D63}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro name="DPI Up" hidden="true" devicecategory="Logitech.Gaming.Mouse" guid="{D77D132A-F4DD-4B41-A613-E531F21B7BF9}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro name="DPI Up" hidden="false" devicecategory="Logitech.Gaming.Mouse" guid="{68DE0FC5-C4F6-4EE5-847E-FFE044149C15}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro name="DPI Down" hidden="true" devicecategory="Logitech.Gaming.Mouse" guid="{A48134D4-F105-4488-B311-F004862E32C1}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro name="DPI Down" hidden="false" devicecategory="Logitech.Gaming.Mouse" guid="{C2A7C121-AF78-478C-A99A-B9D08305871D}" original="true" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro name="Scroll Lock" hidden="false" guid="{67754A6C-089A-4DD4-A484-2744BAD7EB9D}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SCROLLLOCK"/>
+        </keystroke>
+      </macro>
+      <macro name="Ctrl + W" hidden="false" guid="{133E555C-7306-4FFA-8F2F-04FBBA47398B}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="W"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro name="Media Player" hidden="false" guid="{DF203427-FDAC-4F12-B148-F89C3776AC4E}" original="true" color="4278246655">
+        <function xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Function">
+          <do task="mediaplayer"/>
+        </function>
+      </macro>
+      <macro name="Calculator" hidden="false" guid="{FD8F3E31-39AC-4B94-B520-00AA0E32AE0E}" original="true" color="4278246655">
+        <function xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Function">
+          <do task="calculator"/>
+        </function>
+      </macro>
+      <macro name="Next tab in browser" hidden="false" guid="{1BB775D5-11F8-4D56-8A8B-31AF70B553CC}" original="true" color="4278246655">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="nexttabinbrowser"/>
+        </hotkeys>
+      </macro>
+      <macro name="H" hidden="false" guid="{A3C924D6-3784-4F76-A81C-73A71901FEA3}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="H"/>
+        </keystroke>
+      </macro>
+      <macro name="Play/Pause" hidden="false" guid="{91DD698C-F36F-48F7-BCBD-571A2813F206}" original="true" color="4278246655">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="playpause"/>
+        </media>
+      </macro>
+      <macro name="abclol" hidden="false" guid="{2E662BC6-7C6E-42CE-BF36-35A070AD1B9D}" original="true" color="4278246655">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key direction="down" value="A"/>
+          <key direction="up" value="A"/>
+          <key direction="down" value="B"/>
+          <key direction="up" value="B"/>
+          <key direction="down" value="C"/>
+          <key direction="up" value="C"/>
+        </multikey>
+      </macro>
+      <macro name="Prev tab in browser" hidden="false" guid="{65DE9755-5A5F-4474-A847-B60A25227020}" original="true" color="4278246655">
+        <hotkeys xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Hotkeys">
+          <do task="prevtabinbrowser"/>
+        </hotkeys>
+      </macro>
+      <macro name="Ctrl + R" hidden="false" guid="{26F1F07E-61B3-4B4D-AD31-BCE0ABDF03F6}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+          <modifier value="LCTRL"/>
+        </keystroke>
+      </macro>
+      <macro name="Right Alt" hidden="false" guid="{02553AAA-441B-41CF-AB81-ADD2B0CD4B53}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RALT"/>
+        </keystroke>
+      </macro>
+      <macro name="Alt + Tab" hidden="false" guid="{4F642A5A-516A-4D7A-B017-F4DD9E22A668}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="TAB"/>
+          <modifier value="LALT"/>
+        </keystroke>
+      </macro>
+      <macro name="Left Windows + Shift + Left" hidden="false" guid="{3A894C83-3705-4243-8AE1-39610E68206E}" original="true" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LEFT"/>
+          <modifier value="LGUI"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro name="Next Track" hidden="false" guid="{EF8223D1-8AE8-4490-8811-4DAE7298AD1F}" color="4278246655">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="nexttrack"/>
+        </media>
+      </macro>
+      <macro backupguid="{EF8223D1-8AE8-4490-8811-4DAE7298AD1F}" name="Volume Up" hidden="false" guid="{56366BA6-D04D-4C00-B09E-7B2BD4033D0A}" color="4278246655">
+        <media xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Media">
+          <do task="volumeup"/>
+        </media>
+      </macro>
+      <macro name="Right Ctrl" hidden="false" guid="{1DC1368D-8FEF-4313-9411-A9F413F071E5}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RCTRL"/>
+        </keystroke>
+      </macro>
+      <macro backupguid="{E45F034C-A50C-4F73-BF01-BF4D7C822BC9}" name="Pause" hidden="false" guid="{5AB9F252-2233-45E6-8613-11729C721321}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="PAUSE"/>
+        </keystroke>
+      </macro>
+      <macro name="Left Windows + Tab" hidden="false" guid="{A0FD6870-3801-40AD-9FC6-4ABC9888C645}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="TAB"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+      <macro name="Prev desktop" hidden="false" guid="{55C99CB7-0E3F-49DE-A3E0-6D12BEFD25DA}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LEFT"/>
+          <modifier value="LCTRL"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+      <macro name="Next desktop" hidden="false" guid="{630109F8-58DA-40B0-B49C-24DB2B7B5D23}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="RIGHT"/>
+          <modifier value="LCTRL"/>
+          <modifier value="LGUI"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G602">
+      <assignment shiftstate="1" contextid="Button1" macroguid="{90CFB95B-054A-4EEA-9D9F-F6B0E25B50CB}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="Button2" macroguid="{F8994A8E-8FAD-4AC4-9784-82A6C8D8641A}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="Button3" macroguid="{22E8D2E8-1E25-46AE-AD3B-60B1C12DFF42}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="Button5" macroguid="{28AFEBAD-CB6A-4FC6-9A47-22A206F5652C}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="Button8" macroguid="{133E555C-7306-4FFA-8F2F-04FBBA47398B}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="Button6" macroguid="{4F642A5A-516A-4D7A-B017-F4DD9E22A668}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="Button9" macroguid="{3A894C83-3705-4243-8AE1-39610E68206E}" backup="false" original="true"/>
+      <assignment shiftstate="1" contextid="Button4" macroguid="{02553AAA-441B-41CF-AB81-ADD2B0CD4B53}" backup="true" original="false"/>
+      <assignment shiftstate="1" contextid="Button4" macroguid="{1DC1368D-8FEF-4313-9411-A9F413F071E5}" backup="false" original="false"/>
+    </assignments>
+    <pointers>
+      <pointer devicemodel="Logitech.Gaming.Mouse.G602">
+        <mode shiftstate="1">
+          <reportrate rate="500"/>
+          <powermode value="3"/>
+          <dpitable syncxy="1" shiftindex="0" defaultindex="1">
+            <dpi x="500" enabled="1" y="500"/>
+            <dpi x="1100" enabled="1" y="1100"/>
+            <dpi x="1500" enabled="1" y="1500"/>
+            <dpi x="2000" enabled="1" y="2000"/>
+            <dpi x="2500" enabled="1" y="2500"/>
+          </dpitable>
+          <movement acceleration="0" speed="-1"/>
+        </mode>
+      </pointer>
+    </pointers>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G602">
+      <mode shiftstate="1" color="#000000"/>
+      <mode shiftstate="2" color="#000000"/>
+      <mode shiftstate="3" color="#000000"/>
+    </backlight>
+    <script>counter = 0;
+timeout = 800;
+
+mouse4_set = false;
+mouse7_set = false;
+g11_set = false;
+g10_set = false;
+
+
+-- HOLD-BUTTON / 2ND-LAYER MACRO FUNCTIONALITY
+-- basically, holding down some of the buttons (like G4, G11) will "mode shift"
+-- the rest of the other buttons, making them execute new "second-layer" macros
+
+
+-- this flag is set when any of the second-layer macros get triggered.
+-- it is cleared (set back to false) when the original button being held down is released
+FLAG_2ND_LAYER_MACRO_PLAYED = false;
+
+
+function OnEvent(event, arg)
+	OutputLogMessage("Counter: %s\n", counter)
+	OutputLogMessage("event = %s, arg = %s\n", event, arg)
+
+
+	-- set flag mouse4_set, when G4 is held
+--	if (event == "MOUSE_BUTTON_PRESSED" and arg == 4) then
+--		mouse4_set = true;
+--	end
+--	if (event == "MOUSE_BUTTON_RELEASED" and arg == 4) then
+--		mouse4_set = false;
+--	end
+
+
+	-- ^^^^^^^^^^^^^^^^ SEE END OF FILE
+
+
+
+
+
+
+	-- If mouse 4 is currently Held Down		(media play/pause / next)
+--	if (event == "MOUSE_BUTTON_PRESSED" and arg == 11 and mouse4_set and FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+--		PlayMacro("Play/Pause");
+--		FLAG_2ND_LAYER_MACRO_PLAYED = true;
+--		OutputLogMessage("\n%s", tostring(FLAG_2ND_LAYER_MACRO_PLAYED))
+--	end
+--	if (event == "MOUSE_BUTTON_PRESSED" and arg == 10 and mouse4_set and FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+--		PlayMacro("Next Track");
+--		FLAG_2ND_LAYER_MACRO_PLAYED = true;
+--		OutputLogMessage("\n%s", ">>>Macro played: Media Next Track		\n")
+--	end
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+-- G11 : Prev tab in browser	|	media play/pause
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == 11) then
+		g11_set = true;
+
+
+		-- + mouse4 modifier: Media Play/Pause
+		if (mouse4_set and FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+			PlayMacro("Play/Pause");
+			FLAG_2ND_LAYER_MACRO_PLAYED = true;
+			OutputLogMessage(">>>Macro played: Media PLAY/PAUSE		\n")
+		end
+
+		-- + mouse7 mod: Prev desktop
+		if (mouse7_set and FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+			PlayMacro("Prev desktop");
+			FLAG_2ND_LAYER_MACRO_PLAYED = true;
+			OutputLogMessage(">>>Macro played: Media PLAY/PAUSE		\n")
+		end
+	end
+	if (event == "MOUSE_BUTTON_RELEASED" and arg == 11) then
+		g11_set = false;
+		if (FLAG_2ND_LAYER_MACRO_PLAYED == true) then
+			FLAG_2ND_LAYER_MACRO_PLAYED = false;
+			return
+		end
+
+		-- G11 prev tab ON RELEASE
+		PlayMacro("Prev tab in browser");
+	end
+
+
+
+-- G10 : Next tab in browser	|	media next
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == 10) then
+		g10_set = true;
+
+
+		-- + mouse4 modifier: Media Next
+		if (mouse4_set and FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+			PlayMacro("Next Track");
+			FLAG_2ND_LAYER_MACRO_PLAYED = true;
+			OutputLogMessage("\n%s", ">>>Macro played: Media Next Track		\n")
+		end
+	end
+	if (event == "MOUSE_BUTTON_RELEASED" and arg == 10) then
+		g10_set = false;
+		if (FLAG_2ND_LAYER_MACRO_PLAYED == true) then
+			FLAG_2ND_LAYER_MACRO_PLAYED = false;
+			return
+		end
+
+		-- G10 next tab ON RELEASE
+		PlayMacro("Next tab in browser");
+	end
+
+
+
+-- G7 : Forward		|	Ctrl+R (Refresh)
+	if (event == "MOUSE_BUTTON_RELEASED" and arg == 7) then
+		mouse7_set = false;
+		if (FLAG_2ND_LAYER_MACRO_PLAYED == true) then
+			FLAG_2ND_LAYER_MACRO_PLAYED = false;
+			return
+		else
+			PlayMacro("Forward");
+		end
+	end
+
+
+	-- g11 modifier: Ctrl+R (refresh page)
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == 7 and g11_set) then
+		mouse7_set = true;
+		if (FLAG_2ND_LAYER_MACRO_PLAYED == false and g11_set) then
+			PlayMacro("Ctrl + R");
+			FLAG_2ND_LAYER_MACRO_PLAYED = true;
+		end
+	end
+
+
+
+-- G4 : task view with G11?
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == 4) then
+		mouse4_set = true;
+		PressKey("RCtrl");
+		
+		if (g11_set and FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+			ReleaseKey("RCtrl");
+			PlayMacro("Left Windows + Tab");
+			FLAG_2ND_LAYER_MACRO_PLAYED = true;
+		end
+	end
+	if (event == "MOUSE_BUTTON_RELEASED" and arg == 4) then
+		mouse4_set = false;
+		ReleaseKey("RCtrl");
+
+		--if (FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+		--	ReleaseKey("LCtrl");
+		--end
+	end
+
+
+	-- g11 modifier: Ctrl+R (refresh page)
+--	if (event == "MOUSE_BUTTON_PRESSED" and arg == 4 and g11_set) then
+--		ReleaseKey("RCtrl");
+--		PlayMacro("Left Windows + Tab");
+--		FLAG_2ND_LAYER_MACRO_PLAYED = true;
+--		OutputLogMessage("ok Left Win + Tab should've played");
+--	end
+
+
+
+-- G11 mod : right desktop
+	if (event == "MOUSE_BUTTON_PRESSED" and arg == 4) then
+		mouse4_set = true;
+		PressKey("RCtrl");
+		
+		if (g11_set and FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+			ReleaseKey("RCtrl");
+			PlayMacro("Left Windows + Tab");
+			FLAG_2ND_LAYER_MACRO_PLAYED = true;
+		end
+	end
+	if (event == "MOUSE_BUTTON_RELEASED" and arg == 4) then
+		mouse4_set = false;
+		ReleaseKey("RCtrl");
+
+		--if (FLAG_2ND_LAYER_MACRO_PLAYED == false) then
+		--	ReleaseKey("LCtrl");
+		--end
+	end
+
+
+---------------------------------------------------------------------------------------------------------------------
+	OutputLogMessage("End\n")
+	counter = counter + 1;
+end</script>
+  </profile>
+</profiles>
