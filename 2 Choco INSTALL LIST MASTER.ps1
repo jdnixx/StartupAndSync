@@ -1,58 +1,31 @@
-choco install -y autohotkey
-# choco install -y autohotkey.portable --pre
-choco install -y notepadplusplus
-choco install -y teracopy
-choco install -y 7zip
-# choco install -y 7-taskbar-tweaker
-choco install -y altdrag
-choco install -y logitechgaming
-# choco install -y megasync
-choco install -y dropbox
-choco install -y spotify
-choco install -y discord
-# choco install -y evernote
-# choco install -y standardnotes
-choco install -y sqlitebrowser
+choco install -y imdisk-toolkit everything teracopy nssm autohotkey notepadplusplus shutup10
+#qttabbar					# outdated
+#autohotkey.portable --pre
+
+choco install -y brave microsoft-edge
+#google-chrome
+#firefox
+
+choco install -y 7zip 7-taskbar-tweaker ccleaner logitechgaming dropbox discord sqlitebrowser
+#megasync					# stupid error
+#spotify					# stupid error
+#evernote
+#standardnotes
+
+choco install -y procexp procmon cpu-z gpu-z hwmonitor sysinternals wiztree
+#furmark
+
+choco install -y jetbrainstoolbox python git nvm
+#php --version=7.1.33
+#composer
+
+choco install -y sumatrapdf.install pdfxchangeeditor libreoffice-fresh paint.net unifying
+#foxitreader
+
+choco install -y vlc steam teamviewer skype tuxguitar nordvpn qbittorrent gpg4win veracrypt
 
 
-choco install -y imdisk-toolkit
-choco install -y nssm
-choco install -y everything
-choco install -y procexp
-choco install -y procmon
-choco install -y cpu-z
-choco install -y gpu-z
-choco install -y hwmonitor
-choco install -y sysinternals
-choco install -y wiztree
-# choco install -y furmark
+#altdrag		########## <--remove??
 
-choco install -y jetbrainstoolbox
-choco install -y python
-choco install -y git
-# choco install -y nvm
-choco install -y nodejs
-# choco install -y php --version=7.1.33
-# choco install -y composer
-
-choco install -y foxitreader
-choco install -y libreoffice-fresh
-choco install -y paint.net
-choco install -y unifying
-
-choco install -y vlc
-choco install -y steam
-choco install -y teamviewer
-choco install -y skype
-choco install -y tuxguitar
-
-choco install -y brave
-# choco install -y google-chrome
-# choco install -y firefox
-
-choco install -y veracrypt
-choco install -y gpg4win
-choco install -y nordvpn
-choco install -y qbittorrent
-# choco install -y electrum.portable
-# ^^^^^^^ check electrum... portable was highest version (3.3.8)
+#electrum.portable
+# check electrum... portable was highest version (3.3.8)
